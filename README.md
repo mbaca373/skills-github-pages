@@ -12,9 +12,14 @@
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 </header>
-### CS481 Homework 0 URL:
+
+<header>
+  
+**CS481 Homework 0 URL:**
+  
 https://github.com/ProfessorBienz/github-and-cmake-tutorial-mbaca373
 
+</header>
 <!--
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
